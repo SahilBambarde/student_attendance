@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">student_attendance</string>
+    <string name="welcome_to_second_home">Welcome to Second Home!</string>
+    <string name="rait_attendance_management_system">RAIT Attendance Management System</string>
+    <string name="developed_by_sahil_bambarde_and_akshay_jadhav_and_ankita_joshi">Developed By: Sahil Bambarde and Akshay Jadhav and Ankita Joshi</string>
+    <string name="Developed_by_Sahil_Bambarde_and_Akshay_Jadhav_and_Ankita_Joshi" />
+    <string name="developed_by_sahil_bambarde_askhay_jadhav_ankita_joshi"><![CDATA[Developed By Sahil Bambarde & Askhay Jadhav & Ankita Joshi]]></string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="number_of_incorrect_attempts">Number of Incorrect Attempts</string>
+    <string name="register">Register</string>
+</resources>
